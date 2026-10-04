@@ -2,14 +2,13 @@
   "id": "slate-notes",
   "name": "Slate Notes",
   "listed": false,
-  "version": "0.41.4",
+  "version": "0.42.0",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.41.4/SlateNotes-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.42.0/SlateNotes-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Slate Notes\\SlateNotes.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-notes-downloads/main/icon.png",
   "notes": [
-    "Undo and Redo in the bar: text deleted by accident comes back, even after it was saved",
-    "The note's text fades under the tabs instead of running up to them"
+    "Released with Slate 0.42.0, so the two stay on the same version"
   ]
 }
