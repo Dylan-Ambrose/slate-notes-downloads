@@ -1,6 +1,7 @@
 {
   "id": "slate-notes",
   "name": "Slate Notes",
+  "listed": false,
   "version": "0.40.0",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
   "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.40.0/SlateNotes-Setup.exe",
