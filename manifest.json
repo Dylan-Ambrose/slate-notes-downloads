@@ -4,14 +4,13 @@
   "parent": "slate",
   "exe": "SlateNotes.exe",
   "listed": false,
-  "version": "0.47.2",
+  "version": "0.47.3",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.47.2/SlateNotes-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.47.3/SlateNotes-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Slate Notes\\SlateNotes.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-notes-downloads/main/icon.png",
   "notes": [
-    "Tab indents a list item again, and Shift+Tab outdents it",
-    "To leave a note from the keyboard, press Escape, then Tab"
+    "Groundwork for the Mac version of Slate Notes"
   ]
 }
