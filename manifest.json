@@ -4,13 +4,13 @@
   "parent": "slate",
   "exe": "SlateNotes.exe",
   "listed": false,
-  "version": "0.50.0",
+  "version": "0.50.1",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.50.0/SlateNotes-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.50.1/SlateNotes-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Slate Notes\\SlateNotes.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-notes-downloads/main/icon.png",
   "notes": [
-    "Ctrl Alt N from any app opens your Inbox note here, while Slate is open"
+    "Released with Slate 0.50.1; nothing changed in the notes window"
   ]
 }
