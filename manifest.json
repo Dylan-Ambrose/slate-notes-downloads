@@ -14,8 +14,8 @@
     "Released with Slate 0.51.0; nothing changed in the notes window"
   ],
   "mac": {
-    "version": "0.51.0",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.51.0/Slate.dmg",
+    "version": "0.53.0",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.53.0/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app"
   }
 }
