@@ -4,17 +4,15 @@
   "parent": "slate",
   "exe": "SlateNotes.exe",
   "listed": false,
-  "version": "0.53.3",
+  "version": "0.53.6",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.53.3/SlateNotes-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.53.6/SlateNotes-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Slate Notes\\SlateNotes.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-notes-downloads/main/icon.png",
   "notes": [
-    "Opens on your notes list with a big New note button, and a note with words but no title is kept as Untitled",
-    "Notes feel like Notion: toggles, a grouped / menu with previews, comments in the margin, an icon and cover on each note, and the bars hide while you type",
-    "Recently deleted has Delete for good on each note and an Empty button",
-    "The Add icon and Add cover row sits in the space above the title, so a short note no longer shows a scrollbar"
+    "Sign in with Apple, beside Google and GitHub on the login page",
+    "The three ways to sign in now sit in one row, so the page no longer scrolls"
   ],
   "mac": {
     "version": "0.53.6",
