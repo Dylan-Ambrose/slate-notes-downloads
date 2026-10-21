@@ -15,8 +15,8 @@
     "A roadmap's goal card now fits a long reason under its title."
   ],
   "mac": {
-    "version": "0.58.0",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.58.0/Slate.dmg",
+    "version": "0.58.1",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.58.1/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app"
   }
 }
