@@ -4,16 +4,17 @@
   "parent": "slate",
   "exe": "SlateNotes.exe",
   "listed": false,
-  "version": "0.54.0",
+  "version": "0.55.0",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.54.0/SlateNotes-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.55.0/SlateNotes-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Slate Notes\\SlateNotes.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-notes-downloads/main/icon.png",
   "notes": [
-    "The Spent so far graph follows your real totals, and hovering a day shows what you paid",
-    "Log a payment, subscription, planned buy or income in any currency; totals are counted in pounds",
-    "Typing in a note gives you the whole window, with just the sidebar beside it"
+    "Slate 0.55.0",
+    "Settings, Account: connect Apple, Google or GitHub, and delete your Averic account if you ever want to.",
+    "Theme can follow your computer's light or dark setting.",
+    "Forgot your password? Slate can now email you a sign-in code."
   ],
   "mac": {
     "version": "0.54.0",
