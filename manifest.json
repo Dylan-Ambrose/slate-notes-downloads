@@ -17,8 +17,8 @@
     "The Add icon and Add cover row sits in the space above the title, so a short note no longer shows a scrollbar"
   ],
   "mac": {
-    "version": "0.53.2",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.53.2/Slate.dmg",
+    "version": "0.53.4",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.53.4/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app"
   }
 }
