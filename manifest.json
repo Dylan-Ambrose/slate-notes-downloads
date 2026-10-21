@@ -17,8 +17,8 @@
     "Forgot your password? Slate can now email you a sign-in code."
   ],
   "mac": {
-    "version": "0.54.0",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.54.0/Slate.dmg",
+    "version": "0.55.0",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.55.0/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app"
   }
 }
