@@ -16,8 +16,8 @@
     "A board or roadmap too big to sync no longer stops everything else syncing; Settings names it."
   ],
   "mac": {
-    "version": "0.57.0",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.57.0/Slate.dmg",
+    "version": "0.57.1",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.57.1/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app"
   }
 }
