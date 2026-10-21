@@ -4,17 +4,17 @@
   "parent": "slate",
   "exe": "SlateNotes.exe",
   "listed": false,
-  "version": "0.55.0",
+  "version": "0.56.0",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.55.0/SlateNotes-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.56.0/SlateNotes-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Slate Notes\\SlateNotes.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-notes-downloads/main/icon.png",
   "notes": [
-    "Slate 0.55.0",
-    "Settings, Account: connect Apple, Google or GitHub, and delete your Averic account if you ever want to.",
-    "Theme can follow your computer's light or dark setting.",
-    "Forgot your password? Slate can now email you a sign-in code."
+    "Slate 0.56.0",
+    "New Workspace under Work: an infinite canvas for boards, note cards, pictures, comments, shapes and drawing.",
+    "Join anything with arrows that follow as you move things, and open boards inside boards.",
+    "Everything syncs between your computers."
   ],
   "mac": {
     "version": "0.55.0",
