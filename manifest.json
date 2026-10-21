@@ -4,15 +4,16 @@
   "parent": "slate",
   "exe": "SlateNotes.exe",
   "listed": false,
-  "version": "0.53.6",
+  "version": "0.54.0",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.53.6/SlateNotes-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.54.0/SlateNotes-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Slate Notes\\SlateNotes.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-notes-downloads/main/icon.png",
   "notes": [
-    "Sign in with Apple, beside Google and GitHub on the login page",
-    "The three ways to sign in now sit in one row, so the page no longer scrolls"
+    "The Spent so far graph follows your real totals, and hovering a day shows what you paid",
+    "Log a payment, subscription, planned buy or income in any currency; totals are counted in pounds",
+    "Typing in a note gives you the whole window, with just the sidebar beside it"
   ],
   "mac": {
     "version": "0.53.6",
