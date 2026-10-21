@@ -16,8 +16,8 @@
     "Typing in a note gives you the whole window, with just the sidebar beside it"
   ],
   "mac": {
-    "version": "0.53.6",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.53.6/Slate.dmg",
+    "version": "0.54.0",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.54.0/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app"
   }
 }
