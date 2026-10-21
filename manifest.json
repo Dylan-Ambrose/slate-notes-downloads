@@ -17,8 +17,8 @@
     "Everything syncs between your computers."
   ],
   "mac": {
-    "version": "0.55.0",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.55.0/Slate.dmg",
+    "version": "0.56.0",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.56.0/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app"
   }
 }
