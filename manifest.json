@@ -15,8 +15,8 @@
     "The Workspace has its own icon in the sidebar."
   ],
   "mac": {
-    "version": "0.59.1",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.59.1/Slate.dmg",
+    "version": "0.59.2",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.59.2/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app"
   }
 }
