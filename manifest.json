@@ -4,16 +4,15 @@
   "parent": "slate",
   "exe": "SlateNotes.exe",
   "listed": false,
-  "version": "0.59.0",
+  "version": "0.59.1",
   "description": "Slate's notes in a small window of their own, installed and updated separately from Slate.",
-  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.59.0/SlateNotes-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/slate-notes-downloads/releases/download/v0.59.1/SlateNotes-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Slate Notes\\SlateNotes.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/slate-notes-downloads/main/icon.png",
   "notes": [
-    "Slate 0.59.0",
-    "Planning a roadmap now shows how far it has got, as a percentage, and what Claude is doing right now.",
-    "No more spinners: things that load show their shape while they arrive."
+    "Slate 0.59.1",
+    "The planning progress bar now runs the full width of its pill."
   ],
   "mac": {
     "version": "0.59.0",
