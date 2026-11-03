@@ -15,13 +15,13 @@
     "The Workspace has its own icon in the sidebar."
   ],
   "mac": {
-    "version": "0.63.0",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.63.0/Slate.dmg",
+    "version": "0.64.0",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.64.0/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app",
     "notes": [
-      "Today: your figures as a strip with the budget as a bar under them, and the lists over two columns with room for every task",
-      "One plus at the top right for logging a payment, adding a subscription, a new note or asking the assistant",
-      "Page titles stand alone, without the circle beside them",
+      "The sidebar is only as wide as your longest Open link, so the tabs run no further than they need, and Notes no longer shows a count",
+      "Dark mode is a step lighter, the same greys as the iPhone apps",
+      "Today: your figures as a strip with the budget as a bar under them, the lists over two columns with room for every task, and one plus for the quick actions",
       "On a Mac, Slate now reads your vault, so the Learning routine shows on Today and syncs to your phone"
     ]
   }
