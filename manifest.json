@@ -15,14 +15,14 @@
     "The Workspace has its own icon in the sidebar."
   ],
   "mac": {
-    "version": "0.62.0",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.62.0/Slate.dmg",
+    "version": "0.63.0",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.63.0/Slate.dmg",
     "install_check_path": "/Applications/Slate Notes.app",
     "notes": [
-      "Your budget, break-even price and Learning Routine now sync between your computers and your phone",
-      "Slate Notes' page rises to the top of the window while you type",
-      "The sign-in page: Remember me and Forgot password on one line, Apple, GitHub and Google as three blocks, Skip in the corner",
-      "Slate Notes has its own icon, the same as on iPhone"
+      "Today: your figures as a strip with the budget as a bar under them, and the lists over two columns with room for every task",
+      "One plus at the top right for logging a payment, adding a subscription, a new note or asking the assistant",
+      "Page titles stand alone, without the circle beside them",
+      "On a Mac, Slate now reads your vault, so the Learning routine shows on Today and syncs to your phone"
     ]
   }
 }
