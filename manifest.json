@@ -15,8 +15,14 @@
     "The Workspace has its own icon in the sidebar."
   ],
   "mac": {
-    "version": "0.61.0",
-    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.61.0/Slate.dmg",
-    "install_check_path": "/Applications/Slate Notes.app"
+    "version": "0.62.0",
+    "download_url": "https://github.com/Dylan-Ambrose/slate-downloads/releases/download/v0.62.0/Slate.dmg",
+    "install_check_path": "/Applications/Slate Notes.app",
+    "notes": [
+      "Your budget, break-even price and Learning Routine now sync between your computers and your phone",
+      "Slate Notes' page rises to the top of the window while you type",
+      "The sign-in page: Remember me and Forgot password on one line, Apple, GitHub and Google as three blocks, Skip in the corner",
+      "Slate Notes has its own icon, the same as on iPhone"
+    ]
   }
 }
